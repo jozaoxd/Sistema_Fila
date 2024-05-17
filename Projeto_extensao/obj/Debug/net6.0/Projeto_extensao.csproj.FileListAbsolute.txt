@@ -1,0 +1,14 @@
+F:\projetos\Projeto_extensao\Projeto_extensao\bin\Debug\net6.0\Projeto_extensao.exe
+F:\projetos\Projeto_extensao\Projeto_extensao\bin\Debug\net6.0\Projeto_extensao.deps.json
+F:\projetos\Projeto_extensao\Projeto_extensao\bin\Debug\net6.0\Projeto_extensao.runtimeconfig.json
+F:\projetos\Projeto_extensao\Projeto_extensao\bin\Debug\net6.0\Projeto_extensao.dll
+F:\projetos\Projeto_extensao\Projeto_extensao\bin\Debug\net6.0\Projeto_extensao.pdb
+F:\projetos\Projeto_extensao\Projeto_extensao\obj\Debug\net6.0\Projeto_extensao.GeneratedMSBuildEditorConfig.editorconfig
+F:\projetos\Projeto_extensao\Projeto_extensao\obj\Debug\net6.0\Projeto_extensao.AssemblyInfoInputs.cache
+F:\projetos\Projeto_extensao\Projeto_extensao\obj\Debug\net6.0\Projeto_extensao.AssemblyInfo.cs
+F:\projetos\Projeto_extensao\Projeto_extensao\obj\Debug\net6.0\Projeto_extensao.csproj.CoreCompileInputs.cache
+F:\projetos\Projeto_extensao\Projeto_extensao\obj\Debug\net6.0\Projeto_extensao.dll
+F:\projetos\Projeto_extensao\Projeto_extensao\obj\Debug\net6.0\refint\Projeto_extensao.dll
+F:\projetos\Projeto_extensao\Projeto_extensao\obj\Debug\net6.0\Projeto_extensao.pdb
+F:\projetos\Projeto_extensao\Projeto_extensao\obj\Debug\net6.0\Projeto_extensao.genruntimeconfig.cache
+F:\projetos\Projeto_extensao\Projeto_extensao\obj\Debug\net6.0\ref\Projeto_extensao.dll
